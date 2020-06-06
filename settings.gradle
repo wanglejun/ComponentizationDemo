@@ -1,0 +1,8 @@
+rootProject.name='ComponentizationDemo'
+include ':app'
+include ':login'
+include ':pay'
+include ':componentbase'
+include ':base'
+include ':apt_process'
+include ':apt_annotation'
